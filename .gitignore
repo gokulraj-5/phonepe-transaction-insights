@@ -1,0 +1,33 @@
+# ================= Python =================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ================= Virtual Environment =================
+.venv/
+venv/
+env/
+
+# ================= Streamlit Secrets =================
+.streamlit/secrets.toml
+
+# ================= Dataset (IMPORTANT) =================
+pulse/
+
+# ================= Jupyter =================
+.ipynb_checkpoints/
+
+# ================= OS Files =================
+.DS_Store
+Thumbs.db
+
+# ================= Logs =================
+*.log
+
+# ================= Temporary =================
+*.tmp
+*.bak
+
+# ================= VS Code =================
+.vscode/
