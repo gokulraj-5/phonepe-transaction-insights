@@ -102,7 +102,7 @@ git clone https://github.com/PhonePe/pulse.git
 
 ---
 
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 Gokulraj V
 AI & ML Enthusiast
